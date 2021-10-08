@@ -1,0 +1,27 @@
+*, *::after, *::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.App{
+table{
+    margin: 50px;
+    width: 100%;
+    
+    td, th {
+  border: 1px solid #dddd;
+  text-align: left;
+  padding: 15px;
+}
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+img{
+    width: 50px;
+    height: 50px;
+}
+}
+}
+
+
